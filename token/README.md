@@ -33,5 +33,5 @@ $ forge test -vvvv
 ```
 
 # Reference 
-- [vm.assertEq()](https://book.getfoundry.sh/reference/forge-std/assertEq)
+- [assertEq()](https://book.getfoundry.sh/reference/forge-std/assertEq)
 - [vm.prank()](https://book.getfoundry.sh/cheatcodes/prank)

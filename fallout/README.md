@@ -33,4 +33,4 @@ $ forge test -vvvv
 - [vm.addr()](https://book.getfoundry.sh/cheatcodes/addr)
 - [vm.startPrank()](https://book.getfoundry.sh/cheatcodes/start-prank)
 - [vm.stopPrank()](https://book.getfoundry.sh/cheatcodes/stop-prank)
-- [vm.assertEq()](https://book.getfoundry.sh/reference/forge-std/assertEq)
+- [assertEq()](https://book.getfoundry.sh/reference/forge-std/assertEq)

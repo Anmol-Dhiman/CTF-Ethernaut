@@ -41,4 +41,4 @@ $ forge test -vvvv
 
 # Reference
 - [vm.deal()](https://book.getfoundry.sh/cheatcodes/deal)
-- [vm.assertEq()](https://book.getfoundry.sh/reference/forge-std/assertEq)
+- [assertEq()](https://book.getfoundry.sh/reference/forge-std/assertEq)
